@@ -1,0 +1,1 @@
+{"name": "api", "port": 443, "replicas": ["a", "A"], "retries": 3, "url": "https://api.example"}

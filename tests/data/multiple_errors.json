@@ -1,0 +1,1 @@
+{"name": "api", "port": 0, "replicas": ["a", "b"], "retries": -1, "url": "ftp://x"}
